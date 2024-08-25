@@ -1,0 +1,38 @@
+table, th, td {
+    border: 1px solid black;
+padding: 10px; }
+
+.name{
+    color: blue;
+}
+
+h2{
+    color: burlywood;
+
+}
+h3{
+    color: darkred;
+}
+input{[type ]="text"
+color:blue;}
+div {
+    background-color: rgb(159, 113, 113);
+}
+*{
+    text-align: center;
+
+}
+table{
+    margin: 0 auto;
+}
+div [exercice3]{
+    background-color: blue;
+}
+tr:first-child{
+    background-color: maroon;
+    color :white
+}
+input[type="submit"]{
+    background-color: gray;
+    color:blue;
+}
